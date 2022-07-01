@@ -1,0 +1,3 @@
+C:/Users/lymili/Downloads/cmake-3.24.0-rc2-tutorial-source/cmake-3.24.0-rc2-tutorial-source/Step1_build/CMakeFiles/Tutorial.dir
+C:/Users/lymili/Downloads/cmake-3.24.0-rc2-tutorial-source/cmake-3.24.0-rc2-tutorial-source/Step1_build/CMakeFiles/ALL_BUILD.dir
+C:/Users/lymili/Downloads/cmake-3.24.0-rc2-tutorial-source/cmake-3.24.0-rc2-tutorial-source/Step1_build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,10 @@
+^C:\USERS\LYMILI\DOWNLOADS\CMAKE-3.24.0-RC2-TUTORIAL-SOURCE\CMAKE-3.24.0-RC2-TUTORIAL-SOURCE\STEP1_BUILD\CMAKEFILES\9C9E5BDD5D2EB52ECEE5C2840EE375A1\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/lymili/Downloads/cmake-3.24.0-rc2-tutorial-source/cmake-3.24.0-rc2-tutorial-source/Step1 -BC:/Users/lymili/Downloads/cmake-3.24.0-rc2-tutorial-source/cmake-3.24.0-rc2-tutorial-source/Step1_build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/lymili/Downloads/cmake-3.24.0-rc2-tutorial-source/cmake-3.24.0-rc2-tutorial-source/Step1_build/Tutorial.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

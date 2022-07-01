@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\lymili\Downloads\cmake-3.24.0-rc2-tutorial-source\cmake-3.24.0-rc2-tutorial-source\Step1_build\CMakeFiles\9c9e5bdd5d2eb52ecee5c2840ee375a1\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7CC9BBE1-99BD-3B0A-982A-F17FF3714E5B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
