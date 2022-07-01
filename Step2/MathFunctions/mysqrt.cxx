@@ -3,6 +3,8 @@
 // a hack square root calculation using simple operations
 double mysqrt(double x)
 {
+  std::cout << "use custom Math function." << std::endl;
+
   if (x <= 0) {
     return 0;
   }
